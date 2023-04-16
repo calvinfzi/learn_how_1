@@ -3,4 +3,4 @@ LEARN Github
 - Build css and HTML for portofolio
 - Build Landing page for css and HTML 2 landing page
 - Then Build Landing page with JS
-- Make practice my logic at Hackerank
+- Make you produntivity at Hackerank
