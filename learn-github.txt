@@ -2,3 +2,5 @@ LEARN Github
 - Consistent for practice 2 times a day
 - Build css and HTML for portofolio
 - Build Landing page for css and HTML 2 landing page
+- Then Build Landing page with JS
+- Make practice my logic at Hackerank
