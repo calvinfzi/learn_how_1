@@ -1,5 +1,6 @@
 PLANING FRONTEND
 
+- Fundamental Javascript
 - Javascript
   * ES6
   * Framework Javascript
