@@ -1,6 +1,8 @@
 PLANING FRONTEND
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Practice
 - Review Codes
