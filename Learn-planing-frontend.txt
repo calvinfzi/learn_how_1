@@ -1,9 +1,11 @@
 PLANING FRONTEND
 
-- Fundamental Javascript
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
+    ^ React
 - PHP Framework
+    ^ Laravel
 - Practice
 - Review Codes
