@@ -4,6 +4,9 @@ PLANING FRONTEND
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - PHP Framework
+  ^ Laravel
 - Practice
 - Review Codes
+- New style Javascript
