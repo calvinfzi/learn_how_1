@@ -7,7 +7,7 @@ PLANING FRONTEND
     ^ Vue
     ^ React
 - PHP Framework
-  ^ Laravel
+    ^ Laravel
 - Practice
 - Review Codes
 - New style Javascript
